@@ -1,14 +1,42 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinTOKMAK.GridSystem.Runtime", "FinTOKMAK.GridSystem.Runtime.csproj", "{a2982b3f-0d13-968f-8b7a-6c7596f1d18e}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinTOKMAK.GridSystem.Samples", "FinTOKMAK.GridSystem.Samples.csproj", "{ce204eaa-cf10-57b7-4485-375ab0999fbe}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinTOKMAK.GridSystem.Tests", "FinTOKMAK.GridSystem.Tests.csproj", "{19f6f1a3-1a65-9ab4-8dcc-a71663ae4014}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Runtime", "Runtime.csproj", "{c479b53b-54da-67b2-33a4-74aafa78395f}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinTOKMAK.GridSystem.Editor", "FinTOKMAK.GridSystem.Editor.csproj", "{28a74c44-e9f3-c54e-64cd-f4459e1bd718}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-
+		{a2982b3f-0d13-968f-8b7a-6c7596f1d18e}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{a2982b3f-0d13-968f-8b7a-6c7596f1d18e}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{a2982b3f-0d13-968f-8b7a-6c7596f1d18e}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{a2982b3f-0d13-968f-8b7a-6c7596f1d18e}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ce204eaa-cf10-57b7-4485-375ab0999fbe}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ce204eaa-cf10-57b7-4485-375ab0999fbe}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ce204eaa-cf10-57b7-4485-375ab0999fbe}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ce204eaa-cf10-57b7-4485-375ab0999fbe}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19f6f1a3-1a65-9ab4-8dcc-a71663ae4014}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19f6f1a3-1a65-9ab4-8dcc-a71663ae4014}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19f6f1a3-1a65-9ab4-8dcc-a71663ae4014}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19f6f1a3-1a65-9ab4-8dcc-a71663ae4014}.Release|Any CPU.Build.0 = Release|Any CPU
+		{c479b53b-54da-67b2-33a4-74aafa78395f}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{c479b53b-54da-67b2-33a4-74aafa78395f}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{c479b53b-54da-67b2-33a4-74aafa78395f}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{c479b53b-54da-67b2-33a4-74aafa78395f}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28a74c44-e9f3-c54e-64cd-f4459e1bd718}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28a74c44-e9f3-c54e-64cd-f4459e1bd718}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28a74c44-e9f3-c54e-64cd-f4459e1bd718}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28a74c44-e9f3-c54e-64cd-f4459e1bd718}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

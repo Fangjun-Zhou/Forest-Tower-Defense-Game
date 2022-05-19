@@ -1,5 +1,25 @@
 {
   "dependencies": {
+    "com.dbrizov.naughtyattributes": {
+      "version": "https://github.com/dbrizov/NaughtyAttributes.git#upm",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "8a8fa5a9659a6d63f196391c71e06c4286c8acd7"
+    },
+    "com.fintokmak.gridsystem": {
+      "version": "file:TOKMAK-Grid-System-Release",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "com.fintokmak.priorityqueue": {
+      "version": "https://github.com/Fangjun-Zhou/Unity-Priority-Queue.git#upm-priorityqueue",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "dbf5eec1cbb600e3cbf2fd47593a2e5175cb8b23"
+    },
     "com.unity.collab-proxy": {
       "version": "1.15.13",
       "depth": 0,
@@ -90,6 +110,13 @@
         "com.unity.modules.ui": "1.0.0",
         "com.unity.modules.imgui": "1.0.0"
       }
+    },
+    "net.wraithavengames.unityinterfacesupport": {
+      "version": "https://github.com/TheDudeFromCI/Unity-Interface-Support.git?path=/Packages/net.wraithavengames.unityinterfacesupport",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "3094e7820a3ecd9c8b70b6f16ee4ac9867e34404"
     },
     "com.unity.modules.ai": {
       "version": "1.0.0",
