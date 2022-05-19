@@ -1,8 +1,9 @@
-﻿using UnityEngine;
+﻿using FinTOKMAK.GridSystem;
+using UnityEngine;
 
 namespace GridSystem
 {
-    public class GridElement : GridElement
+    public class ForestGridElement : GridElement
     {
         
     }
